@@ -161,6 +161,6 @@ numberColor | string | '#13547a'
 
   [![Linkedin Badge](https://img.shields.io/badge/-Jorge_de_Carvalho-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jorge-de-carvalho-aa21b2186/)
   [![Github Badge](https://img.shields.io/badge/-Jorge_de_Carvalho-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/joorgeroberto)
-  [![Gmail Badge](https://img.shields.io/badge/-jorgercjo@dcomp.ufs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgercjo@dcomp.ufs.br)](mailto:jorgercj@dcomp.ufs.br)
+  [![Gmail Badge](https://img.shields.io/badge/-jorgercjo@dcomp.ufs.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jorgercj@dcomp.ufs.br)](mailto:jorgercj@dcomp.ufs.br)
   </div>
 </div>
